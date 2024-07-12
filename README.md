@@ -13,6 +13,7 @@
 
 ```
 git clone https://github.com/MatheusMorata/RaspagemPrecoDaHora.git
+cd RaspagemPrecoDaHora
 pip install -r requirements.txt
 python main.py
 ```
