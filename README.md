@@ -12,11 +12,11 @@
 
 
 
-'''
+ˋˋˋ
 
-git clone https://github.com/MatheusMorata/RaspagemPrecoDaHora.git
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/MatheusMorata/RaspagemPrecoDaHora.git<br>
+pip install -r requirements.txt<br>
+python main.py<br>
 
 
-'''
+ˋˋˋ
