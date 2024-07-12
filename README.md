@@ -14,11 +14,9 @@
 
 '''
 
-
 git clone https://github.com/MatheusMorata/RaspagemPrecoDaHora.git
 pip install -r requirements.txt
 python main.py
-
 
 
 '''
